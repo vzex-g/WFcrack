@@ -35,4 +35,4 @@ else:
     clear
     echo $bluelight"INVALID COMMAND"
     sleep 4
-    sh WIFI-tools.sh
+    sh WFcrack.sh
