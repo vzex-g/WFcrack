@@ -1,8 +1,9 @@
 # WFcrack
-WFCRACK MAKE YOUR WIFI SAFE 100%
+WFCRACK BEST MENU 100%
 
-- 👋 Hi
-- WFCRACK ITS ADMIN TOOLS FROM IBP OR INDONESIA BIGGEST PROJECT
+- 👋 WELCOME TO WFCRACK TOOLS
+- WFCRACK DIBUAT OLEH PERANGKAT LINUX 
+- Beberapa menu mungkin membutuhkan akses Ubuntu linux
 
 <!---
 wifi crack tools
