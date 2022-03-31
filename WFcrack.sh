@@ -50,7 +50,7 @@ then
 pip2 install gem
 gem install gollum
 pkg install python2
-pkg update
+pkg install tsu
 read -p "ARE YOU SURE? [Y/N] : " WFC
 sleep 1
 git clone https://github.com/ankit0183/Wifi-Hacking
