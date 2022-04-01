@@ -12,4 +12,7 @@ wifi crack tools
 - • ANDROID SUPPORT
 - • NEW MENU
 - • NEW VERSION 1.31.8R1
-NEW VERSION NEW MENU 
+/=============================\
+
+- GNU SUPPORT 
+- LINUX SUPPORT
