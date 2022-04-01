@@ -3,8 +3,13 @@ WFCRACK BEST MENU 100%
 
 - 👋 WELCOME TO WFCRACK TOOLS
 - WFCRACK DIBUAT OLEH PERANGKAT LINUX 
-- Beberapa menu mungkin membutuhkan akses Ubuntu linux
-
+- UPDATE VERSION 13.1.6R01
 <!---
 wifi crack tools
 --->
+- • COMING SOON ↓
+
+- • ANDROID SUPPORT
+- • NEW MENU
+- • NEW VERSION 1.31.8R1
+NEW VERSION NEW MENU 
