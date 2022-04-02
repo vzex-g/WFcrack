@@ -111,6 +111,7 @@ sleep 2
 echo $red "DONE"
 sleep 2
 sh WFcrack.sh
+exit
 fi
 
 if [ $GG = 4 ] || [ $GG = 4 ]
