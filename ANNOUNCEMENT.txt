@@ -1,0 +1,2 @@
+- MENU NUMBER 4 ERROR
+WFcrack.sh: 74: [: =: unexpected operator
