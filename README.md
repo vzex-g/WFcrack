@@ -11,9 +11,8 @@ Linux menu
 /=============================\
 
 
-# SUPPORT
-- DO NOT MODIFY THIS SCRIPT -
-- IF YOU MODIFIED THIS SCRIPT -
-- YOU WILL DIE -
-- SORRY ITS JUST JOKE HAHA :V -
+# MORE
+- [x] Bug fixed
+- [x] All Package fixed
+
 
