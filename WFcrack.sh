@@ -13,7 +13,7 @@ R="\033[41m"
 B="\033[0;30m"
 clear
 #CREDIT : SUNSHINE
-#CREATUNG WITH TSU / SUDO COMMAND #!
+#CREATING WITH TSU / SUDO COMMAND #!
         echo -e $w""
         echo -e $w         "{"$B$W" WFCRACK LINUX "$w"}"
         echo -e $w""
