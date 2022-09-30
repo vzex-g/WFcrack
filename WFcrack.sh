@@ -48,16 +48,16 @@ sleep 2
 echo $bluelight"Done"
 pkg install python2
 pip2 install gem
-echo -z $bluelight "/""<""Framework launhing""<""/"
+echo -z $bluelight "/""<""Connection Has been Protected By WpV1.Trmx""<""/"
 sleep 2
 sh WFcrack.sh
 fi
 
 if [ $GG = 2 ] || [ $GG = 2 ]
 then
-echo "Connecting to framework..."
-sudo
-echo "No tsu detected"
+echo "Reading //:termux/files/binary/bnm/"
+sudo apt update
+echo "no binary files detected"
 sleep 3
 sh WFcrack.sh
 fi
@@ -74,14 +74,15 @@ fi
 
 if [ $WF = 1 ] || [ $WF = 1 ]
 then
+echo $purple "[!] WARNING [!] Make sure your phone has root access!"
 sudo apt install gem
 sudo apt upgrade
 sudo apt update
 sudo apt install python2
-read -p "ARE YOU SURE? [Y] : " WFC
+read -p "Binary Rooted? [Y] : " WFC
 sleep 1
 git clone https://github.com/ankit0183/Wifi-Hacking
-echo $ree "UNPACKING...."
+echo $ree "UNPACKING FILES..."
 sleep 2
 cd Wifi-Hacking
 python2 Wifi-Hacking.py
@@ -91,8 +92,9 @@ fi
 if [ $WF = 2 ] || [ $WF = 2 ]
 then
 echo "UNLOCKING...."
-sudo apt install root
+sudo apt install neofetch
 echo "FAILED"
+sleep 2
 exit
 fi
 
@@ -107,6 +109,9 @@ echo "L"
 echo "O"
 echo "A"
 echo "D"
+echo "I"
+echo "N"
+echo "G"
 sleep 2
 figlet -f standard ROUTERS...
 sleep 2
